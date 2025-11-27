@@ -40,5 +40,5 @@ The dataset used in this project contains:
 ## Author
 Arya Surendra Patil 
 
-Entry-Level Data Analyst  
+Entry-Level Data Analyst
 
